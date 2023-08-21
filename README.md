@@ -13,7 +13,7 @@
 
 ### 📫 How to reach me?
 
- - Visit my [Website](https://www.trainwithshubham.com) 🌐
- - Connect with me on [LinkedIn](https://www.linkedin.com/in/shubhamlondhe1996/) 👨🏻‍💻
+ - Visit my [Website](https://gopalgtm.devtool.site) 🌐
+ - Connect with me on [LinkedIn](https://www.linkedin.com/in/gopal-gautam-a9a4b722a/) 👨🏻‍💻
  - Follow me on [Instagram](https://www.instagram.com/shubhamlondhe96/) ✨
- - Shoot Me an [Email](mailto:trainwithshubham@gmail.com) 💌
+ - Shoot Me an [Email](mailto:gopalgautam279@gmail.com) 💌
