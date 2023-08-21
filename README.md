@@ -7,6 +7,13 @@
 <p align="left">
   <a href="https://linkedin.com/in/gopal-gautam-a9a4b722a" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" />
+### 📫 How to reach me?
+
+ - Visit my [Website](https://www.trainwithshubham.com) 🌐
+ - Connect with me on [LinkedIn](https://www.linkedin.com/in/shubhamlondhe1996/) 👨🏻‍💻
+ - Follow me on [Instagram](https://www.instagram.com/shubhamlondhe96/) ✨
+ - Shoot Me an [Email](mailto:trainwithshubham@gmail.com) 💌
+
   </a>
   <a href="https://hashnode.com/@gopalgtm" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="Hashnode" height="30" width="30" />
