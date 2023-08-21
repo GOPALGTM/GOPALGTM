@@ -5,19 +5,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/gopal-gautam-a9a4b722a" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" />
-### 📫 How to reach me?
+ - Connect with me on [LinkedIn](https://www.linkedin.com/in/gopal-gautam-a9a4b722a/) 👨🏻‍💻
+ - Follow me on [Blog](https://gopalgtm.devtool.site) <img width="337" alt="brand-icon" src="https://github.com/GOPALGTM/GOPALGTM/assets/104998098/4fa4c5a9-e0b2-47f8-884e-ada9b9f1842b">
 
- - Visit my [Website](https://www.trainwithshubham.com) 🌐
- - Connect with me on [LinkedIn](https://www.linkedin.com/in/shubhamlondhe1996/) 👨🏻‍💻
- - Follow me on [Instagram](https://www.instagram.com/shubhamlondhe96/) ✨
- - Shoot Me an [Email](mailto:trainwithshubham@gmail.com) 💌
-
-  </a>
-  <a href="https://hashnode.com/@gopalgtm" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="Hashnode" height="30" width="30" />
-  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
