@@ -3,7 +3,7 @@
 <!-- ========================= -->
 
 <h1 align="center">Hi 👋, I'm Gopal Gautam</h1>
-<h3 align="center">🚀 DevOps Engineer | Cloud & Kubernetes Specialist | CI/CD Evangelist</h3>
+<h3 align="center">🚀 DevOps Engineer | Cloud • Kubernetes • CI/CD • MLOps</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/gopal-gautam-a9a4b722a">
