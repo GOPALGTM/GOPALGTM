@@ -59,16 +59,20 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📚 Currently Learning
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gopalgtm&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=gopalgtm&theme=radical&hide_border=true" height="170"/>
-</p>
+🚀 Expanding my DevOps expertise into the **MLOps & AI Infrastructure** ecosystem.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopalgtm&layout=compact&theme=radical&hide_border=true"/>
-</p>
+### 🤖 MLOps & AI Platforms
+- **MLOps (Machine Learning Operations)** – End-to-end ML lifecycle automation  
+- **MLflow** – Experiment tracking, model registry, and ML lifecycle management  
+- **DVC (Data Version Control)** – Versioning datasets and ML pipelines  
+- **Kubeflow** – Kubernetes-native machine learning workflows  
+
+### ☁️ Cloud AI Services
+- **AWS SageMaker** – Training and deploying ML models at scale  
+- **Azure Machine Learning** – Enterprise-grade cloud AI platform  
+- **GCP Vertex AI** – Unified ML platform for model training, deployment, and monitoring  
 
 ---
 
